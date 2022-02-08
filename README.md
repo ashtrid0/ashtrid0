@@ -1,3 +1,2 @@
 - Computer Science and Information Security Major
 - Currently learning C++. Might soon start learning Python.
-- 
