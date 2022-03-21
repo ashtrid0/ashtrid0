@@ -1,4 +1,4 @@
 - Computer Science and Information Security Major
 - Currently learning C++. Might soon start learning Python.
-- most of the projects you'll find here are beginner practice projects I worked on in class.
+- most of the projects you'll find here are beginner practice codes I worked on in class.
 - 
